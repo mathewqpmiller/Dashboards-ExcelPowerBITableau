@@ -1,4 +1,4 @@
-# Tableau-BritishAirwaysDashboard
+# Quick Dashboard Tutorials: Excel, Tableau, Power BI
 Given that I am completing a tutorial series of data analytics dashboards by various authors on YouTube, and my objective is to review, potentially include in my portfolio, and write a Medium story about these top dashboard tutorials, I have chosen to do an individual repository for each project and a combined one approach. The reasons are as follows.
 ### Individual Repository:
 * Organization: I will create individual repositories for each tutorial to maintain a clear organization.
