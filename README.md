@@ -1,4 +1,4 @@
-# Tableau-BritishAirwaysDashboard
+# Quick Dashboard Tutorials: Excel, Tableau, Power BI
 Given that I am completing a tutorial series of data analytics dashboards by various authors on YouTube, and my objective is to review, potentially include in my portfolio, and write a Medium story about these top dashboard tutorials, I have chosen to do an individual repository for each project and a combined one approach. The reasons are as follows.
 ### Individual Repository:
 * Organization: I will create individual repositories for each tutorial to maintain a clear organization.
@@ -15,9 +15,10 @@ Embark on a hands-on journey with me as I delve into five succinct YouTube video
 Navigating Mo Chen's YouTube tutorial was a comprehensive and instructive experience, resulting in the successful completion of the project within approximately three hours. While the timeframe exceeded my initial expectations, it was a minor trade-off for the clarity and precision of Mo's instructions. Unlike my usual self-learning courses on platforms like Udemy or Coursera, Mo's tutorial showcased a polished and concise teaching style. The absence of unnecessary personal opinions allowed for a streamlined learning process. Understanding the rationale behind each step was virtually problem-free, and Mo's meticulous guidance ensured a smooth execution. Considering the tutorial's effectiveness, I'm inclined to revisit the project, experimenting with different datasets and customizations to further enhance my Tableau skills.
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/AggregateData1.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Dashboards-ExcelPowerBITableau/blob/main/Tableau-BritishAirwaysDashboard/Images/BritishAirwaysReviewDynamicDashboard.png?raw=true">
 </p>
 
+<<<<<<< HEAD
 * A link to the website: https://www.youtube.com/watch?v=KlAKAarfLRQ 
 
 # 2) Tableau Project: DataScience RoadMap's Netflix Dashboard
@@ -26,3 +27,6 @@ Embark on a rapid journey into data visualization with the DataScience RoadMap's
 <p align="center">
     <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/AggregateData1.JPG?raw=true">
 </p>
+=======
+* A link to Mo Chen's YouTube tutorial for this project: https://www.youtube.com/watch?v=KlAKAarfLRQ 
+>>>>>>> 11b7ddb53799d6c44edb2b5a93362ffa7804c999
