@@ -11,7 +11,7 @@ This approach allows me to have the best of both worlds, providing dedicated spa
 ## Project Overview
 Embark on a hands-on journey with me as I delve into five succinct YouTube video tutorials, each designed to be completed in 45 minutes or less. This immersive exercise aims to assess the accessibility and user-friendliness of dashboard creation tools by following along with diverse tutorials. From mastering data visualization to crafting interactive dashboards, the goal is to gauge the efficiency of each tutorial and the overall experience in completing the projects. Join me on this exploration as I share insights, challenges, and triumphs in the realm of dashboard creation. The GitHub Readme will serve as a comprehensive guide, offering a glimpse into the world of quick and practical tutorials, providing both newcomers and seasoned users with valuable perspectives on the ease of implementation for each tutorial and the project as a whole.
 
-# Project 1: Mo Chen's British Airways Review Dynamic Dashboard
+# 1) Tableau Project: Mo Chen's British Airways Review Dynamic Dashboard
 Navigating Mo Chen's YouTube tutorial was a comprehensive and instructive experience, resulting in the successful completion of the project within approximately three hours. While the timeframe exceeded my initial expectations, it was a minor trade-off for the clarity and precision of Mo's instructions. Unlike my usual self-learning courses on platforms like Udemy or Coursera, Mo's tutorial showcased a polished and concise teaching style. The absence of unnecessary personal opinions allowed for a streamlined learning process. Understanding the rationale behind each step was virtually problem-free, and Mo's meticulous guidance ensured a smooth execution. Considering the tutorial's effectiveness, I'm inclined to revisit the project, experimenting with different datasets and customizations to further enhance my Tableau skills.
 
 <p align="center">
@@ -19,3 +19,10 @@ Navigating Mo Chen's YouTube tutorial was a comprehensive and instructive experi
 </p>
 
 * A link to the website: https://www.youtube.com/watch?v=KlAKAarfLRQ 
+
+# 2) Tableau Project: DataScience RoadMap's Netflix Dashboard
+Embark on a rapid journey into data visualization with the DataScience RoadMap's Tableau tutorial, crafting a Netflix dashboard in under 30 minutes. This concise yet comprehensive tutorial provides clear insights and practical guidance, ensuring swift mastery in Tableau dashboard creation. Access the starter files via the provided link and elevate your data visualization proficiency, navigating the world of dynamic and impactful dashboards with efficiency and engagement.
+
+<p align="center">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/AggregateData1.JPG?raw=true">
+</p>
