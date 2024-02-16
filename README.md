@@ -15,7 +15,7 @@ Embark on a hands-on journey with me as I delve into five succinct YouTube video
 Navigating Mo Chen's YouTube tutorial was a comprehensive and instructive experience, resulting in the successful completion of the project within approximately three hours. While the timeframe exceeded my initial expectations, it was a minor trade-off for the clarity and precision of Mo's instructions. Unlike my usual self-learning courses on platforms like Udemy or Coursera, Mo's tutorial showcased a polished and concise teaching style. The absence of unnecessary personal opinions allowed for a streamlined learning process. Understanding the rationale behind each step was virtually problem-free, and Mo's meticulous guidance ensured a smooth execution. Considering the tutorial's effectiveness, I'm inclined to revisit the project, experimenting with different datasets and customizations to further enhance my Tableau skills.
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Dashboards-ExcelPowerBITableau/blob/main/Tableau-NetflixDashboard/Images/DashboardScreenshot.png?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Dashboards-ExcelPowerBITableau/blob/main/Tableau-BritishAirwaysDashboard/Images/BritishAirwaysReviewDynamicDashboard.png?raw=true">
 </p>
 
 * Here is the link to Mo Chen's YouTube tutorial for the "British Airways Review" dashboard project: https://www.youtube.com/watch?v=KlAKAarfLRQ 
@@ -24,7 +24,7 @@ Navigating Mo Chen's YouTube tutorial was a comprehensive and instructive experi
 Embark on a rapid journey into data visualization with the DataScience RoadMap's Tableau tutorial, crafting a Netflix dashboard in under 30 minutes. This concise yet comprehensive tutorial provides clear insights and practical guidance, ensuring swift mastery in Tableau dashboard creation. Navigating through the DataScience RoadMap tutorial proved to be a smoother experience compared to Mo Chen's "British Airways Review" dashboard tutorial though I would say both are equal in value. Despite similar video lengths and instructional depth, the ease of understanding this tutorial was notably higher. Both tutorials, however, share a common omission in detailing the ETL (extract, transform, load) process for dataset acquisition. While this is a minor tradeoff for a more direct project approach, a welcome addition would be insights into their dataset or project selection process, an aspect currently lacking in the tutorials. A glimpse into their decision-making could provide valuable context for learners, enhancing the overall learning experience. Access the starter files via the provided link and elevate your data visualization proficiency, navigating the world of dynamic and impactful dashboards with efficiency and engagement.
 
 <p align="center">
-    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Tableau-CitBikeAnalysis/blob/main/Resources/Images/AggregateData1.JPG?raw=true">
+    <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Dashboards-ExcelPowerBITableau/blob/main/Tableau-NetflixDashboard/Images/DashboardScreenshot.png?raw=true">
 </p>
 
 * Here is a link to DataScience RoadMap's YouTube tutorial for the "Netflix" dashboard project: https://www.youtube.com/watch?v=BTArwS4ljC4
