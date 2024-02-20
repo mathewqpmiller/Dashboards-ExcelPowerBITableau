@@ -28,3 +28,13 @@ Embark on a rapid journey into data visualization with the DataScience RoadMap's
 </p>
 
 * A link to DataScienc RoadMap's YouTube tutorial for this Netflix dashboard project: https://www.youtube.com/watch?v=KlAKAarfLRQ
+
+# 3) Excel Project: iDATA Analytics Hub's Adidas Dashboard
+
+The iDATA Analytics Hub's Excel Dashboard tutorial presented a unique learning experience, diverging from the previous two tutorials. With a duration akin to Mo Chen's tutorial, clocking in at around three hours, it required a bit more effort due to the absence of live narration. The lack of verbal guidance resulted in occasional setbacks, making the process slightly more intricate and time-consuming. Nonetheless, the tutorial's reliance on text prompts with pointers facilitated navigation through Excel's workspace. Despite this not being my preferred learning style, it proved effective. Surpassing the other two in satisfaction, this is largely attributed to my familiarity with Excel over Tableau. iDATA Analytics Hub's extensive course offerings hint at their expertise, and though I had to navigate a couple of hurdles independently, the overall experience was enjoyable.
+
+<p align="center">
+    <img width="700" alt="level1" src="">
+</p>
+
+* A link to iDATA Analytics Hub's YouTube tutorial for this Adidas dashboard project: https://www.youtube.com/watch?v=-qt_nFudQkY&t=453s
