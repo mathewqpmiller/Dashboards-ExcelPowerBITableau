@@ -27,7 +27,7 @@ Embark on a rapid journey into data visualization with the DataScience RoadMap's
     <img width="700" alt="level1" src="https://github.com/mathewqpmiller/Dashboards-ExcelPowerBITableau/blob/main/Tableau-NetflixDashboard/Images/DashboardScreenshot.png?raw=true">
 </p>
 
-* A link to DataScienc RoadMap's YouTube tutorial for this Netflix dashboard project: https://www.youtube.com/watch?v=KlAKAarfLRQ
+* A link to DataScienc RoadMap's YouTube tutorial for this Netflix dashboard project: https://www.youtube.com/watch?v=BTArwS4ljC4&t=1026s
 
 # 3) Excel Project: iDATA Analytics Hub's Adidas Dashboard
 
